@@ -1,0 +1,15 @@
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\bin\Debug\netcoreapp3.1\FlaskControl.exe
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\bin\Debug\netcoreapp3.1\FlaskControl.deps.json
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\bin\Debug\netcoreapp3.1\FlaskControl.runtimeconfig.json
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\bin\Debug\netcoreapp3.1\FlaskControl.runtimeconfig.dev.json
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\bin\Debug\netcoreapp3.1\FlaskControl.dll
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\bin\Debug\netcoreapp3.1\FlaskControl.pdb
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Debug\netcoreapp3.1\FlaskControl.csprojAssemblyReference.cache
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Debug\netcoreapp3.1\FlaskControl.Form1.resources
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Debug\netcoreapp3.1\FlaskControl.csproj.GenerateResource.cache
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Debug\netcoreapp3.1\FlaskControl.AssemblyInfoInputs.cache
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Debug\netcoreapp3.1\FlaskControl.AssemblyInfo.cs
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Debug\netcoreapp3.1\FlaskControl.csproj.CoreCompileInputs.cache
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Debug\netcoreapp3.1\FlaskControl.dll
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Debug\netcoreapp3.1\FlaskControl.pdb
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Debug\netcoreapp3.1\FlaskControl.genruntimeconfig.cache
