@@ -12,3 +12,4 @@ Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Release\netcoreapp3.1\Flask
 Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Release\netcoreapp3.1\FlaskControl.dll
 Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Release\netcoreapp3.1\FlaskControl.pdb
 Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Release\netcoreapp3.1\FlaskControl.genruntimeconfig.cache
+Y:\Github\flaskcontrol\FlaskControl\FlaskControl\obj\Release\netcoreapp3.1\FlaskControl.csprojAssemblyReference.cache
